@@ -14,7 +14,7 @@ This project is a Python-based motion detection system that captures video from 
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your_username/webcam-motion-detector.git
+    git clone https://github.com/anesu398/webcam-motion-detector.git
     ```
 
 2. Navigate to the project directory:
